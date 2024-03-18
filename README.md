@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♻️ NK-BOT-MD ♻️</h1>
+  <h1>🚨 BOT OBSOLETO, ALTERNATIVA: https://github.com/NeoKode/quantum-bot ♻️</h1>
     <p>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+nwn;Gracias+por+usar+este+bot+my+king+%3A3;%5B+How+sexy+are+you+7w7r+%5D_" alt="Typing SVG">
           </p>
