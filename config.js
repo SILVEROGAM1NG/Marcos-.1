@@ -16,11 +16,11 @@ const dPkg = require(join(__dirname, './package.json'))
 //globals ._.
 global.MultiIdioma = [true, ""] //[true, ""] = Multi Idioma automático; [false, "es"] = Un solo idioma predefinido "es", "en", "id", "pt" 
 global.Propietario = dPkg.author.name
-global.OwnerNum = '51991378809'
-global.PaisPrefix = '51'
+global.OwnerNum = '50379483266'
+global.PaisPrefix = '503'
 global.Prefijo = '.'
-global.MyApiKey = 'nekosmic' //zzz
-global.NombreDelBot = 'NK-BOT' //vMD
+global.MyApiKey = 'jhonasa' //zzz
+global.NombreDelBot = 'JH-BOT' //vMD
 global.BotVersion = dPkg.version
 global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/@nekosmic\n\n[ f ] Página de Facebook:\n- https://fb.watch/jUyKKR5gtV/?mibextid=Nif5oz\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMYtWLvyf/"
 global.UsLimitesCmd = '20'
